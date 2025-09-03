@@ -36,6 +36,8 @@ The project is structured as a **Tableau Story** with 9 slides and 5 detailed da
 ## 🔹 Dashboards Included  
 
 ### 1️⃣ Marketing Performance Dashboard  
+<img width="1595" height="888" alt="image" src="https://github.com/user-attachments/assets/1aff143e-bc0c-4995-ad5f-cf4f31beb459" />
+
 - Focuses on **revenue, operating cost, and profit margin** specific to Marketing.  
 - Shows **client count** (3 clients in dataset) and highlights ROI efficiency despite fewer clients.  
 - Includes a **year-over-year revenue trend (2022–2024)** to show steady growth.  
@@ -44,6 +46,8 @@ The project is structured as a **Tableau Story** with 9 slides and 5 detailed da
 ---
 
 ### 2️⃣ Finance Performance Dashboard  
+<img width="1596" height="892" alt="image" src="https://github.com/user-attachments/assets/f917b9fa-33af-407d-8c26-af431446fe89" />
+
 - Provides a **deep dive into Finance revenue and cost structure**.  
 - Highlights **highest revenue (45,468 M USD in 2024)** among all service lines.  
 - Shows **margin stability** over 3 years despite moderate cost increases.  
@@ -52,6 +56,8 @@ The project is structured as a **Tableau Story** with 9 slides and 5 detailed da
 ---
 
 ### 3️⃣ HR Performance Dashboard  
+<img width="1610" height="879" alt="Screenshot 2025-08-21 224907" src="https://github.com/user-attachments/assets/8254c728-62ac-4fc3-867f-21f0d6a57817" />
+
 - Focuses on **employee workforce distribution and cost impact**.  
 - Highlights HR’s **revenue (44,052 M USD)** vs **operating cost (30,253 M USD)**.  
 - Shows **slightly lower margins (31.4%)** due to investments in training and technology.  
@@ -60,6 +66,8 @@ The project is structured as a **Tableau Story** with 9 slides and 5 detailed da
 ---
 
 ### 4️⃣ Supply Chain Performance Dashboard  
+<img width="1599" height="881" alt="Screenshot 2025-09-03 165831" src="https://github.com/user-attachments/assets/cdd5c6d2-918e-4430-af25-da6711b019bc" />
+
 - Analyzes **Supply Chain revenue and workforce trends**.  
 - Highlights **44,191 M USD revenue** and **29,916 M USD cost in 2024**.  
 - Workforce growth observed to support operational efficiency.  
@@ -69,6 +77,8 @@ The project is structured as a **Tableau Story** with 9 slides and 5 detailed da
 ---
 
 ### 5️⃣ Cross-Service Line Comparison Dashboard  
+<img width="1596" height="877" alt="Screenshot 2025-09-03 165713" src="https://github.com/user-attachments/assets/10b8e846-6b96-4a23-82e4-49515aa445a8" />
+
 - Brings all **four service lines (Marketing, Finance, HR, Supply Chain)** together.  
 - Comparison Metrics (2024):  
   - **Revenue by Service Line**  
